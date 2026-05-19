@@ -1,9 +1,5 @@
 import { StartupEvent, system } from "@minecraft/server";
-import {
-  registerBlockComponents,
-  registerCommands,
-  registerItemComponents,
-} from "./registry.js";
+import { registerBlockComponents, registerCommands, registerItemComponents } from "./registry.js";
 
 function startup(event: StartupEvent): void {
   registerBlockComponents(event.blockComponentRegistry);
