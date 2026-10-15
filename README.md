@@ -19,7 +19,7 @@ This repository has multiple branches for each platform this Minecraft mod suppo
 | Key        | Value             |
 | ---------- | ----------------- |
 | namespace  | `lpsm_more_honey` |
-| more-honey | `more-honey`      |
+| slug       | `more-honey`      |
 
 ## LINKS
 
