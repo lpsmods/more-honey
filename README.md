@@ -10,7 +10,7 @@ Ever thought that Minecraft needed more honey food? Then this is your mod! This 
 
 This repository has multiple branches for each platform this Minecraft mod supports.
 
-- [`1.21`](https://github.com/lpsmods/more-honey/tree/1.21)
+- [`java`](https://github.com/lpsmods/more-honey/tree/1.21)
 - [`datapack`](https://github.com/lpsmods/more-honey/tree/datapack)
 - [`bedrock`](https://github.com/lpsmods/more-honey/tree/bedrock)
 
